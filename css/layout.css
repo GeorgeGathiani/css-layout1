@@ -25,6 +25,9 @@ body {
 }
 
 .box img {
+  float: left ;
+  width: 30;
+  margin-right: 1.5%;
   float: ;
   border: 30px; solid #fff;
   position: static;
