@@ -20,6 +20,9 @@ body {
 }
 
 .box img {
+  border: 30px; solid red;
+  position: static;
+  
 }
 
 .box a.read-more {
